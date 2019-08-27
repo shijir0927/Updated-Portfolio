@@ -1,0 +1,59 @@
+body {
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+}
+
+.home-page {
+    background-color: #EDC7B7;
+    height: 100vh;
+}
+
+.about-page {
+    background-color: #123C69;
+    height: 120vh;
+    color: white;
+    padding: 20px;
+}
+
+.project-page {
+    background-color: #EDB7C7;
+    padding: 20px;
+}
+
+.contact-page {
+    background-color: #123C69;
+    height: 110vh;
+    color: white;
+}
+
+.my-name {
+    text-align: center
+}
+
+.my-image {
+    margin-top: 100px;
+}
+
+.my-footer {
+    background-color: black;
+    color: white;
+}
+
+.about-page-title {
+    padding: 25px;
+    font-size: 80px;
+}
+
+.project-page-title {
+    padding: 25px;
+    font-size: 80px;
+}
+
+.name-text {
+    font-weight: bold;
+    font-size: 10vh;
+}
+
+.name-text-small {
+    font-size: 4vh;
+}
