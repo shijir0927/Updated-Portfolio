@@ -3,6 +3,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+h2 {
+    font-weight: bolder;
+}
+
 .home-page {
     background-color: #EDC7B7;
     height: 100vh;
@@ -10,13 +14,12 @@ body {
 
 .about-page {
     background-color: #123C69;
-    height: 120vh;
     color: white;
     padding: 20px;
 }
 
 .project-page {
-    background-color: #EDB7C7;
+    background-color: #EDC7B7;
     padding: 20px;
 }
 
@@ -56,4 +59,12 @@ body {
 
 .name-text-small {
     font-size: 4vh;
+}
+
+.year {
+    color: grey;
+}
+
+.card {
+    padding: 15px;
 }
